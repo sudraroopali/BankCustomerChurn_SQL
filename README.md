@@ -1,6 +1,7 @@
 # Analyzing Customer Churn Patterns in a Banking Dataset: Unveiling Insights into Demographic Factors and Customer Behavior
 
-### Project Brief: This project aimed to analyze customer churn patterns in a banking dataset to uncover valuable insights related to demographic factors and customer behavior. By leveraging SQL queries and data analysis techniques, we explored various aspects of customer churn and its relationship with demographic variables such as gender, marital status, education level, and income category.
+### Project Brief
+This project aimed to analyze customer churn patterns in a banking dataset to uncover valuable insights related to demographic factors and customer behavior. By leveraging SQL queries and data analysis techniques, we explored various aspects of customer churn and its relationship with demographic variables such as gender, marital status, education level, and income category.
 
 ### Objectives: 
 1. Identify the churn rate among different demographic segments: The project sought to determine which customer groups were more prone to churning by examining churn rates across gender, marital status, education level, and income category.
